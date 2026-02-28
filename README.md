@@ -1,8 +1,8 @@
 # quantum-ml-classifier
 
-compares variational quantum classifier + quantum kernel SVM against classical SVM on toy datasets. built with qiskit ml.
+Compares variational quantum classifier + quantum kernel SVM against classical SVM on toy datasets. Made with qiskit ml.
 
-classical svm still wins on small datasets but the quantum pipeline is interesting.
+Classic svm still wins on small datasets but the quantum pipeline is interesting.
 
 ## setup
 
